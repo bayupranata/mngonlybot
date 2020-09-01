@@ -4,11 +4,12 @@
   "description": "",
   "main": "app.js",
   "engines": {
-    "node": "12.x",
+    "node": "12.x.x",
     "npm": "*"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
     "start": "node app.js"
   },
   "author": "",
